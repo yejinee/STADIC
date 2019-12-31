@@ -77,7 +77,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 networkx==2.1
 nltk==3.2.5
-notebook==5.6.0
+notebook==5.7.8
 np-utils==0.5.5.0
 numpy==1.13.3
 opencv-python==3.4.2.17
