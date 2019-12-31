@@ -147,7 +147,7 @@ torchfile==0.1.0
 torchvision==0.2.1
 tornado==5.1
 traitlets==4.3.2
-Twisted==18.7.0
+Twisted==19.7.0
 urllib3==1.22
 visdom==0.1.8.5
 w3lib==1.19.0
