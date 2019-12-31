@@ -153,7 +153,7 @@ visdom==0.1.8.5
 w3lib==1.19.0
 wcwidth==0.1.7
 websocket-client==0.51.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.3.0
 xgboost==0.80
 yahoo-finance==1.4.0
