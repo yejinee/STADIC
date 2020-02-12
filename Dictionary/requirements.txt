@@ -28,7 +28,7 @@ Cython==0.28
 dask==0.18.2
 decorator==4.3.0
 dill==0.2.8.2
-Django==2.1
+Django==2.2.10
 docutils==0.14
 ecos==2.0.5
 entrypoints==0.2.3
