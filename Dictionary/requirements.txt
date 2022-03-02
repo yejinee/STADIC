@@ -122,7 +122,7 @@ s3transfer==0.1.13
 scikit-image==0.14.0
 scikit-learn==0.19.1
 scipy==1.0.0
-Scrapy==1.5.1
+Scrapy==1.8.2
 scs==2.0.2
 seaborn==0.8.1
 selectivesearch==0.4
