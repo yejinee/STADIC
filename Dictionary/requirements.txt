@@ -41,7 +41,7 @@ glob2==0.6
 grpcio==1.10.0
 h5df==0.1.5
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.999999999
 hyperlink==18.0.0
 idna==2.6
 imgaug==0.2.6
